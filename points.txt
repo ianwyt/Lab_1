@@ -1,0 +1,7 @@
+points = [
+    (50, 35),  # first point (x, y)
+    (50, 55),  # second point
+    (40, 45),  # third point
+    (60, 45),  # fourth point
+    (50, 55)   # fifth point (same as second point to close the rectangle)
+]
